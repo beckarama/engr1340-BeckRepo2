@@ -10,3 +10,6 @@ example 2:
 
 10 X 10 = 100
 
+example 3:
+4 X 4 = 16
+
